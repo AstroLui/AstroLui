@@ -21,7 +21,7 @@
 <br>
 <br>
 <br>
-<a href="https://open.spotify.com/user/31fopkq6zbwr5n54uevo75fpxbyq?si=2965b60e57224a94" style="color: #888888; font-family: 'Courier New', monospace; text-transform: uppercase; letter-spacing: 1px; text-decoration: none; font-size: 18px; border-bottom: 1px dotted #444; transition: all 0.2s;" onmouseover="this.style.color='#ff6b35'; this.style.borderBottom='1px solid #ff6b35'" onmouseout="this.style.color='#888888'; this.style.borderBottom='1px dotted #444'">[ SPOTIFY ]</a>  <a href="https://www.instagram.com/amiasnunez/" style="color: #888888; font-family: 'Courier New', monospace; text-transform: uppercase; letter-spacing: 1px; text-decoration: none; font-size: 18px; border-bottom: 1px dotted #444; transition: all 0.2s;" onmouseover="this.style.color='#ff6b35'; this.style.borderBottom='1px solid #ff6b35'" onmouseout="this.style.color='#888888'; this.style.borderBottom='1px dotted #444'">[ INSTAGRAM ]</a> 
+<a href="https://open.spotify.com/user/31fopkq6zbwr5n54uevo75fpxbyq?si=2965b60e57224a94" style="color: #888888; font-family: 'Courier New', monospace; text-transform: uppercase; letter-spacing: 1px; text-decoration: none; font-size: 18px; border-bottom: 1px dotted #444; transition: all 0.2s;" onmouseover="this.style.color='#ff6b35'; this.style.borderBottom='1px solid #ff6b35'" onmouseout="this.style.color='#888888'; this.style.borderBottom='1px dotted #444'">[ SPOTIFY ]</a> 
 <br>
 <div style="display:flex; gap:1rem; flex-direction:row-reverse">
 	<img src="./src/chrom.jpeg" style="width:240px; height:500px; object-fit: cover; opacity:90" align="right"/>
